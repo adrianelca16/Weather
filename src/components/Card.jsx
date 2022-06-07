@@ -22,6 +22,7 @@ const Card = ({weather}) => {
             setDegrees((degrees-32)/1.8)
         }
     }
+    
    
   return (
       <article className='card'>
